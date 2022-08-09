@@ -1,5 +1,5 @@
 <h1 align="center"> 
-   💙 Bagaskara-Ubot 💜
+   💙 Cuanxsaga-Ubot 💜
 </h1>
 
 <p align="center">
