@@ -6,7 +6,7 @@
 # <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
 #
 # t.me/SharingUserbot & t.me/Lunatic0de
-# Bagaskara-PyroBot
+# Cuan-PyroBot
 
 from base64 import b64decode
 from distutils.util import strtobool
